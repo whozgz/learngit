@@ -11,4 +11,11 @@ class app(self):
 	def show_age(self):
 		print('my age is %d'%self.age)
 
+	def hello(self):
+		return
+}
+class student(object):
+{
+	
+
 }
