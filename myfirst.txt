@@ -7,4 +7,7 @@ class app(self):
 	
 	def show_name(self):
 		print('my name is %s'%self.name)
+	
+	def showAge(self.age):
+		print('my age is %s'%self.age)
 }
