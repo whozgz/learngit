@@ -14,3 +14,7 @@ class app(self):
 	def hello(self):
 		return
 }
+class student(object):
+{
+	
+}
