@@ -10,4 +10,7 @@ class app(self):
 	
 	def showAge(self.age):
 		print('my age is %s'%self.age)
+		
+	def hello(self):
+		return
 }
