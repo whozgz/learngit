@@ -4,4 +4,7 @@ class app(self):
 		self.name = 'zgz'
 		self.age = 39
 		self.addr = 'fjyd'
+	
+	def show_name(self):
+		print('my name is %s'%self.name)
 }
